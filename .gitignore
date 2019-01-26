@@ -1,5 +1,6 @@
 *.classpath
 *.git
 *.project
+*.DS_Store
 *.settings
 target/
